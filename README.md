@@ -14,6 +14,7 @@ After that you ca custom the code, change the firebase Auth, Hose and SSID also 
 
 you can alsodownload the app file on the link below
 https://drive.google.com/open?id=1v4B_4n18H0935jrTA7Iy-m4-BhyNpf__ --> Android Studio file
-
 Attention you must re connecting the app to your own firebase  
 
+Circuit
+[Circuit](https://firebasestorage.googleapis.com/v0/b/trashinformationbaseiot.appspot.com/o/Circuit.png?alt=media&token=9a9d05cd-d48f-4daf-aa82-b5492a4e1146)Welcome to the IoT-SmartTrash-Info wiki!
