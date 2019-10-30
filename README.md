@@ -11,3 +11,9 @@ https://drive.google.com/open?id=1C1-gNLU6H82dpma-hZJEGJDplZt7edDm --> Lcd i2c f
 
 After that you ca custom the code, change the firebase Auth, Hose and SSID also the Password.
 
+
+you can alsodownload the app file on the link below
+https://drive.google.com/open?id=1v4B_4n18H0935jrTA7Iy-m4-BhyNpf__ --> Android Studio file
+
+Attention you must re connecting the app to your own firebase  
+
