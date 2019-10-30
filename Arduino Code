@@ -5,10 +5,10 @@
 int lcdColumns = 16;
 int lcdRows = 2;
 // Set these to run example.
-#define FIREBASE_HOST "trashinformationbaseiot.firebaseio.com"
-#define FIREBASE_AUTH "WS1UPFOwJFTXq0L1jOK0f4Mpqbk1aQK4nLnXJ3OB"
-#define WIFI_SSID "q"
-#define WIFI_PASSWORD "12345678"
+#define FIREBASE_HOST "Your Host"
+#define FIREBASE_AUTH "Your Auth"
+#define WIFI_SSID "Your Own SSID"
+#define WIFI_PASSWORD "Your PASSWORD"
 //defines pins numbers
 const int trigPin = 2;  //D4
 const int echoPin = 0;  //D3
