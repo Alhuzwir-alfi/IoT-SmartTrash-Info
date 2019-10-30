@@ -1,6 +1,13 @@
-# IoT-SmartTrash-Info
+# IoT-SmartTrash-Info #Project Description
 The Iot App connected with Firebase Before You costum ite You must Connect With your own Firebase Database
 
-#Project Description
 This project will be using IoT technology, the Project concern is in environmental issues. Technically that project using the NodeMcu esp8266 board as a data uploader to firebase and using several electronics components like an ultrasonic sensor, LCD i2c, etc. So ultrasonic sensor function is for detected trash bin quantity and LCD function is displaying information and condition of trash bin.
+
+attention before you run Arduino program you must Install several Library there are firebase Arduino library and Liquid crystal lcd
+also install NodeMcu board on your arduino IDE, you canDownload on the link below
+https://www.instructables.com/id/Quick-Start-to-Nodemcu-ESP8266-on-Arduino-IDE/ --> NodeMcu Board Instalation
+https://github.com/FirebaseExtended/firebase-arduino --> Firebase Arduino Library
+https://drive.google.com/open?id=1C1-gNLU6H82dpma-hZJEGJDplZt7edDm --> Lcd i2c for NodeMcu Library
+
+After that you ca custom the code, change the firebase Auth, Hose and SSID also the Password.
 
