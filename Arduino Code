@@ -37,7 +37,7 @@ void setup() {
   Serial.print("connected: ");
   Serial.println(WiFi.localIP());
   delay(500);
-  lcd.setCursor(0, 0);
+  lcd.setCursor(0,0);
   lcd.print(WiFi.localIP());
   Firebase.begin(FIREBASE_HOST, FIREBASE_AUTH);
   
